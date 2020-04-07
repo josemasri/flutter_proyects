@@ -1,0 +1,27 @@
+[
+    {
+        "widget": "Safe Area",
+        "icono": "lock",
+        "route": "safeArea"
+    },
+    {
+        "widget": "Expanded",
+        "icono": "expand_less",
+        "route": "expanded"
+    },
+    {
+        "widget": "Wrap",
+        "icono": "wrap_text",
+        "route": "wrap"
+    },
+    {
+        "widget": "Animated Container",
+        "icono": "refresh",
+        "route": "animatedContainer"
+    },
+    {
+        "widget": "Opacity - Animated",
+        "icono": "opacity",
+        "route": "opacity"
+    }
+]
